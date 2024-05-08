@@ -1,0 +1,15 @@
+#lol {
+    background-image: url(../img/XD2.jpg); 
+    background-size: cover;
+}
+.boody{
+    background: rgb(232, 228, 228);
+}
+.form-signup {
+    margin: 0 auto;
+    max-width: 400px;
+    
+}
+.sd{
+    text-decoration: none;
+}
